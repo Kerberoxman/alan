@@ -3,7 +3,7 @@
 <head>
 	<title>Registro</title>
 	<meta charset="UTF-8">
-	<link rel="stylesheet" href="css/registro.css">
+	<link rel="stylesheet" href="registro.css">
 	<script src="valida_registro.js"></script>
 </head>
 
